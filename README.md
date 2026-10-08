@@ -2,7 +2,9 @@
 
 Convert LaTeX math delimiters copied from Codex, ChatGPT, and other AI tools into Obsidian-friendly Markdown math with one command.
 
-**将 Codex、ChatGPT 等工具输出的 `\(…\)`、`\[…\]` 公式一键转换为 Obsidian 使用的 `$…$`、`$$…$$`。**支持只转换选中文本，也支持转换整篇笔记。
+**将 Codex、ChatGPT 等工具输出的 `\(…\)`、`\[…\]` 公式一键转换为 Obsidian 使用的 `$…$`、`$$…$$`。**
+
+支持只转换选中文本，也支持转换整篇笔记。
 
 ## What it converts / 转换示例
 
