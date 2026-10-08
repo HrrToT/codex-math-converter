@@ -1,0 +1,9 @@
+{
+  "id": "codex-math-converter",
+  "name": "Codex Math Converter",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Convert Codex-style LaTeX delimiters to Obsidian dollar delimiters in the current note or selection.",
+  "author": "Codex",
+  "isDesktopOnly": false
+}
